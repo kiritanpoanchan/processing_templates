@@ -19,19 +19,6 @@ TODO: ここにcodeの概要と，どのような意図で作成したかを書�
 http://www.greenowl5.com/gprogram/processing/processing140.html
 野田麦さんにも助けてもらいました。
 
-sampleをそれぞれのdirectoryに置いています．
-
-今見ている，README.mdはmark downで書いています．
-
-robotx_class/REAME.orgはorg-modeで書いています．コードも綺麗にカラー表示されているでしょう．
-
-もちろんmark downでもcodeを綺麗に表示できます．
-書き方は，googleで調べてください．
-
-``` java
-rect(0, 0, 10, 10);
-```
-なんかです．
 
 ## License
 
